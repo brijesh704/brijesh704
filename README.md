@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Brijesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding animation">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+  
+  ## 💫 About Me:
+  
+  🔭 I’m currently working on: **Something Cool!**  
+  🌱 I’m currently learning: **React.js, Node.js**  
+  💬 Ask me about: **Front-end development using HTML, Javascript, CSS, ReactJS, Bootstrap**  
+  ⚡ Fun fact: **People read faster or slower depending on what they read from.**
 
-# 💫 About Me:
-🔭 I’m currently working on: **Something Cool!**<br>🌱 I’m currently learning: **React.js, Node.js**<br>💬 Ask me about: **Front-end development using HTML, Javascript, CSS, ReactJS, Bootstrap**<br>⚡ Fun fact: **People read faster or slower depending on what they read from.**
+  </div>
+
+  <img align="right" width="300" height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer GIF">
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brijesh-kanpariya)
