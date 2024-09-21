@@ -2,10 +2,14 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
+
+
+    
+  <img align="right" width="400"  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer GIF">
   <div>
   
-  ## 💫 About Me:
-  
+    ## 💫 About Me:
+
   🔭 I’m currently working on: **Something Cool!**  
   🌱 I’m currently learning: **React.js, Node.js**  
   💬 Ask me about: **Front-end development using HTML, Javascript, CSS, ReactJS, Bootstrap**  
@@ -13,7 +17,7 @@
 
   </div>
 
-  <img align="right" width="300" height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer GIF">
+
 
 </div>
 
